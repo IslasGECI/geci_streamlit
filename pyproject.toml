@@ -11,6 +11,7 @@ home-page = "https://github.com/IslasGECI/geci_streamlit"
 module = "geci_streamlit"
 requires = [
     "descarga-datos==0.*",
+    "pandas-stubs",
     "streamlit"
 ]
 requires-python=">=3.9"
